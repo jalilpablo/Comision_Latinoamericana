@@ -3,6 +3,7 @@ import requests
 from os import remove
 
 def get_table(iso_code):
+    print('Descargando "'+iso_code+'"')
     url = 'https://climateknowledgeportal.worldbank.org/cru/cru/timeseries/tas/annual/climatology/historical/country/'
     page = requests.get(url+iso_code)
     if page.status_code == 200:
@@ -22,7 +23,15 @@ for code in codes:
 remove('temporal.csv')
 print("Se ha terminado de cargar los códigos de los países")
 
-tabla = pd.concat(Series, axis = 1)
-tabla.to_csv('Temperatures.csv')
+for i in range(len(Series)):
+    serie = Series[i].copy()
+    pais = serie.name
+    serie = serie.reset_index()
+    serie.rename(columns={pais: 'temperatura'}, inplace=True)
+    serie['codigo'] = pais
+    Series[i] = serie
+
+tabla = pd.concat(Series, axis = 0)
+tabla.to_csv('Temperatures.csv', index=False)
 print('Se han guardado los resultados en "Temperatures.csv"')
 input()
