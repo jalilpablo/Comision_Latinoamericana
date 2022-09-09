@@ -1,9 +1,14 @@
 
 Este es un trabajo realizado por los alumnos de la carrera de Data Science de Soy Henry: 
+
 Mauricio Vilar: Data engineer; 
+
 Francisco Cervantes: Machine Lerning;
+
 Gerardo Flores: Machine Lerning;
+
 Pablo Jalil: Infraestructura y Big Data;
+
 María Alicia Musacchio: Data Analyst.
 
 El año 2015 fue el año más cálido del registro histórico global. Y sin embargo, fue superado por el año 2016. Desde el año 2015 al 2021 fueron los siete años más cálidos registrados superando el 1°C con respecto a los niveles preindustriales.
