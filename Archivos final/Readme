@@ -1,20 +1,20 @@
-**Origen de los archivos**
+*Origen de los archivos*
 
-Datos ONU: generado con la unión de los datasets Energy Intensity measured in term of primary energy and GDP, Portion of population with access to electricity, 
+* Datos ONU: generado con la unión de los datasets Energy Intensity measured in term of primary energy and GDP, Portion of population with access to electricity, 
 Portion of population with primary reliance on clean fuels and tecnology y Renewable energy share in the total final energy consumption.
 
 Con este dataset analizamos las siguientes métricas:
 
-Disminuir a la mitad la intensidad energética del año 2015 para el año 2030.
+- Disminuir a la mitad la intensidad energética del año 2015 para el año 2030.
 
-95% de la población con acceso a servicios energéticos asequibles, fiables y modernos para el año 2030
+- 95% de la población con acceso a servicios energéticos asequibles, fiables y modernos para el año 2030
 
-100% de proporción de energía renovable en el consumo final total de energía para el año 2030.
+- 100% de proporción de energía renovable en el consumo final total de energía para el año 2030.
 
-Energy co2k y Porcentaje Compromiso2 : Con estos dos datasets analizamos la siguiente métrica:
+* Energy co2k y Porcentaje Compromiso2 : Con estos dos datasets analizamos la siguiente métrica:
 
-El 80% de los países Latinoamericanos cumplan con sus compromisos de reducción de emisiones CO2 cumplidos para el año2030
+- El 80% de los países Latinoamericanos cumplan con sus compromisos de reducción de emisiones CO2 cumplidos para el año2030
 
-Temperatures: Con este dataset analizamos la siguiente métrica:
+* Temperatures: Con este dataset analizamos la siguiente métrica:
 
-El aumento de las temperaturas de Latinoamerica no tiene que superar los 1,5°C a las mediciones de la época preindustrial para el año 2030.
+- El aumento de las temperaturas de Latinoamerica no tiene que superar los 1,5°C a las mediciones de la época preindustrial para el año 2030.
