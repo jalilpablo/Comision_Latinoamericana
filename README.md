@@ -18,3 +18,5 @@ Nosotros somos la Comisión Latinoamericana:
 * Pablo Jalil (Ingeniero de Datos): Estructura y Big Data. Email: jalilpablo@gmail.com
 
 * Alicia Musacchio (Analista de Datos): Visualización y Análisis. Email: alimusac@gmail.com
+
+Página streamlit: https://vilarmauricio-streamlit-pg-inicio-21enj9.streamlitapp.com/
