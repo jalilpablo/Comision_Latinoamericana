@@ -1,1 +1,9 @@
 
+1) Estructura vacia: Genera la estructura de los archivos sin contenido en Big Query de Google.
+
+2) Carga Inicial: Carga de contenido los archivos de Big Query de Google.
+
+3) Carga Incremental: Va dataset por dataset comparando por País, Año y Valor. Si encuentra un archivo con un Año distinto, lo carga. Si encuentra un archivo con mismo
+año y país pero con distinto valor, tira un alerta para que se evalue el cambio o no por el valor que tenemos.
+
+4) ETL Alternativo: Genera dataset con más datos para tenerlos a disposición en el caso de querer realizar nuevas métricas.
