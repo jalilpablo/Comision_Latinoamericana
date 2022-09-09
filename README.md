@@ -1,7 +1,7 @@
 
 **Presentación de la Comisión Latinoamericana**
 
-Este es un trabajo realizado por los alumnos de la carrera de Data Science de Soy Henry. Si bien algunos notebook corren con un archivo json, por razones de seguridad no podemos compartirlo por este medio. Ante cualquier consulta se pueden comunicar con alguno de los integrantes al mail. 
+Este es un trabajo realizado por los alumnos de la carrera de Data Science de Soy Henry. Para ejecutar las consultas a bigquery son necesarios ciertos permisos para acceder a la nube privada, que por razones de seguridad no podemos compartir. Ante cualquier consulta se pueden comunicar con alguno de los integrantes al mail.
 
 El año 2015 fue el año más cálido del registro histórico global. Y sin embargo, fue superado por el año 2016. Desde el año 2015 al 2021 fueron los siete años más cálidos registrados superando el 1°C con respecto a los niveles preindustriales.
 
