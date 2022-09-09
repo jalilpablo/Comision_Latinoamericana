@@ -2,7 +2,7 @@
 
 Ante la necesidad de proyección en el tiempo de los objetivos acordados se buscó un modelo de ML para tal fin.
 
-Por la naturaleza del problema, fue necesario encontrar algún modelo que trabajara, específicamente, sobre series de tiempo. Se encontró la posibilidad de utilizar Redes Neuronales Artificiales (ANN) y un producto creado por el conglomerado META llamado PROPHET.
+Por la naturaleza del problema, fue necesario encontrar algún modelo que trabajara, específicamente, sobre series de tiempo. Se encontró la posibilidad de utilizar Redes Neuronales Artificiales (ANN) y un producto creado por el universo de META llamado PROPHET.
 
 Se entrenaron y testearon ambos modelos sobre los mismos conjuntos de datos para poder medir el performance entregado y así decidir qué modelo proyectaría cada objetivo
 
