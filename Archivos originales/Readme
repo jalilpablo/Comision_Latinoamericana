@@ -1,5 +1,5 @@
 
-Energyco2 y Energy co2k: https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population
+Energyco2: https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population
 
 Global Power Plant Database: http://datasets.wri.org/dataset/globalpowerplantdatabase
 
@@ -9,7 +9,7 @@ Global Land Temperatures By Country: https://www.kaggle.com/datasets/berkeleyear
 
 Temperatures: web scraping de la página https://climateknowledgeportal.worldbank.org/download-data 
 
-Porcentaje Compromiso y Porcentaje Compromiso2: La información fue obtenida del libro https://feu-us.org/wp-content/uploads/2021/07/The-Truth-Behind-the-Climate-Pledges.pdf
+Porcentaje Compromiso: La información fue obtenida del libro https://feu-us.org/wp-content/uploads/2021/07/The-Truth-Behind-the-Climate-Pledges.pdf
 
 Energy Intensity measured in term of primary energy and GDP: https://unstats.un.org/sdgs/dataportal
 
@@ -19,5 +19,4 @@ Portion of population with primary reliance on clean fuels and tecnology: https:
 
 Renewable energy share in the total final energy consumption: https://unstats.un.org/sdgs/dataportal
 
-Datos ONU: generado con la unión de los datasets Energy Intensity measured in term of primary energy and GDP, Portion of population with access to electricity, 
-Portion of population with primary reliance on clean fuels and tecnology y Renewable energy share in the total final energy consumption.
+
