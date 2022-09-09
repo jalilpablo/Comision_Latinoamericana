@@ -7,7 +7,7 @@ Owid Energy Consumption Source: https://github.com/owid/energy-data
 
 Global Land Temperatures By Country: https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
 
-Temperatures: web scraping de la página https://climateknowledgeportal.worldbank.org/download-data 
+Temperatures: web scraping (download_temp.py) de la página https://climateknowledgeportal.worldbank.org/download-data 
 
 Porcentaje Compromiso: La información fue obtenida del libro https://feu-us.org/wp-content/uploads/2021/07/The-Truth-Behind-the-Climate-Pledges.pdf
 
